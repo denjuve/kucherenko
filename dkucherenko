@@ -15,5 +15,5 @@ parameters:
         dkucherenko:
           enabled: true
           public_keys:
-            - key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDG5m9Wwd2XIaG6iFrsH4BanLDUPpgeAy8o573iB8uqEe1vEp6IMCID5hL7+JUjRX7TGJ9B3QskgAenE50w0yTCqu+oIVXOfzYCbcOAI/Pestv7RDGwciLCX3wdtSYU1dW5Zl8mtH4LMGpBtAG1nAKP1suqXWHUr92bzrYeMicuTADvOYFLxAOVcAEXwBrRUYsy+wTF4ROSZRzE8HLwYAzSngmFqKyW1tj/nLEGTZGWcIYkXDfWR/TW1neP6svaUV6nFLXnj3pRP7KNSK8iil8YuMyT+YGz2f3971967woAAqvSOtF3Rh2f4PLGcNwsMd1tjqMIVvIlI7Lo4UsIA9AZ dkucherenko@mirantis.com
+            - key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyESKLSmHhXZwtRfSeIc9ZZ1ARP0kxEcDBqRO84jVGB+pw9UXqynrpeFVA7tib9GYSxIDmRj8xbU9BSUX/rvktx/vzBS8yKwYeATY3ncuPwf6tQIWsz0dKLJmQAzlsz4U7qsJvedAxxEuPBorwyfuILzHA355GOjnecfeKN3HPTscGbIBdQyRDnww8VAk0O+uaGx6DCbOYQFSpz7lNt4+eIBoAKdjYAdOTq4mCNdl0g/qH2OP/ria4x00c56DoP5A4xeekL6T6QTxsqEvHVi/TNSnjD9ch9wDqcSPyey7W60qL/No3r+dB4Mx0QwM2F92C77vhLqJfUFAx6g9eCieh dkucherenko@dkucherenko-pc
 user: ${linux:system:user:dkucherenko}
